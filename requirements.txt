@@ -1,0 +1,5 @@
+#tensorflow==1.13.1
+#numpy==1.21.6
+#opencv==4.1.0
+#sklearn.utils==0.20.3
+#python 3.7.1
